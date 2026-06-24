@@ -1,1 +1,0 @@
-import{n as e,t}from"./index-C1BeMvT4.js";var n=e();function r(){return(0,n.jsxs)(`main`,{className:`container narrow mt-4 text-center`,children:[(0,n.jsx)(`h1`,{children:`404`}),(0,n.jsx)(`p`,{children:`This page could not be found.`}),(0,n.jsx)(`p`,{className:`bold`,children:(0,n.jsx)(t,{to:`/`,children:`back to home`})})]})}export{r as component};
